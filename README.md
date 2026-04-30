@@ -8,10 +8,10 @@ Actualmente lidero **Movicerri**, un dashboard interactivo para el monitoreo del
 *   **Enfoque:** Optimización de movilidad y planificación urbana.
 
 ### 🛠️ My Tech Stack
-*   **Web:** HTML, CSS, JS.
+*   **Web:** HTML, CSS, JS y Python.
 *   **Infraestructura:** Docker (Contenedorización).
 *   **Herramientas:** Git, GitHub, Metodologías de gestión (Gantt).
-*   **En aprendizaje:** Python y Backend development.
+*   **En aprendizaje:** JS, CSS, HTML y Backend development.
 
 ### 🎯 Mis Objetivos
 - [ ] Integrar APIs de transporte en tiempo real.
@@ -20,4 +20,4 @@ Actualmente lidero **Movicerri**, un dashboard interactivo para el monitoreo del
 
 ---
 📫 **¿Cómo contactarme?**
-Puedes revisar mis proyectos aquí en GitHub o contactarme para colaboraciones en proyectos de impacto social.
+- 📧 Email: [mrivasb@uft.edu](mailto:mrivasb@uft.edu)
