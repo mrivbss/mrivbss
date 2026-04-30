@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Martín Rivas 👋
 
-<!--
-**mrivbss/mrivbss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería Civil Informática** en la **Universidad Finis Terrae** (Chile 🇨🇱). Me enfoco en desarrollar soluciones tecnológicas con impacto social y eficiencia técnica.
 
-Here are some ideas to get you started:
+### 🚀 Proyecto Destacado: Movicerri 🚌
+Actualmente lidero **Movicerri**, un dashboard interactivo para el monitoreo del transporte público en la comuna de **Cerrillos**.
+*   **Tecnologías:** HTML5, CSS3, JavaScript y Docker.
+*   **Enfoque:** Optimización de movilidad y planificación urbana.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+*   **Web:** HTML, CSS, JS.
+*   **Infraestructura:** Docker (Contenedorización).
+*   **Herramientas:** Git, GitHub, Metodologías de gestión (Gantt).
+*   **En aprendizaje:** Python y Backend development.
+
+### 🎯 Mis Objetivos
+- [ ] Integrar APIs de transporte en tiempo real.
+- [ ] Escalar el proyecto Movicerri a otras comunas.
+- [ ] Seguir creciendo profesionalmente como desarrollador Full Stack.
+
+---
+📫 **¿Cómo contactarme?**
+Puedes revisar mis proyectos aquí en GitHub o contactarme para colaboraciones en proyectos de impacto social.
